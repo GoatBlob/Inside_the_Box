@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Snd_call2_hello",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":1.7647165,
+  "exportDir":"",
+  "name":"Snd_call2_hello",
+  "parent":{
+    "name":"1hello",
+    "path":"folders/sounds/story/call2/1hello.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_call2_hello.wav",
+  "volume":1.0,
+}

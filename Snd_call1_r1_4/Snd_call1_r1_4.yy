@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Snd_call1_r1_4",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":3.157914,
+  "exportDir":"",
+  "name":"Snd_call1_r1_4",
+  "parent":{
+    "name":"response_set2",
+    "path":"folders/sounds/story/call1/response_1/response_set2.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_call1_r1_4.wav",
+  "volume":1.0,
+}

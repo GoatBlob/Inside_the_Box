@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Snd_butt_7",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.47600907,
+  "exportDir":"",
+  "name":"Snd_butt_7",
+  "parent":{
+    "name":"dial",
+    "path":"folders/sounds/SFX/dial.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_butt_7.wav",
+  "volume":1.0,
+}

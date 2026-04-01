@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Snd_bombs5",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":2.3103855,
+  "exportDir":"",
+  "name":"Snd_bombs5",
+  "parent":{
+    "name":"bombsaway",
+    "path":"folders/sounds/story/bombsaway.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Snd_bombs5.wav",
+  "volume":1.0,
+}
